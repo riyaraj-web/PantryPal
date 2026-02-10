@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Glass -->
+  <path d="M 70 60 L 60 160 Q 60 170 100 170 Q 140 170 140 160 L 130 60 Z" fill="#FFA500" opacity="0.3" stroke="#FF8C00" stroke-width="2"/>
+  <path d="M 70 60 L 60 160 Q 60 170 100 170 Q 140 170 140 160 L 130 60 Z" fill="none" stroke="#E67E00" stroke-width="3"/>
+  
+  <!-- Juice -->
+  <path d="M 71 65 L 62 155 Q 62 165 100 165 Q 138 165 138 155 L 129 65 Z" fill="#FF9500"/>
+  
+  <!-- Bubbles -->
+  <circle cx="80" cy="90" r="3" fill="white" opacity="0.4"/>
+  <circle cx="95" cy="100" r="2.5" fill="white" opacity="0.4"/>
+  <circle cx="110" cy="85" r="2" fill="white" opacity="0.4"/>
+  <circle cx="120" cy="110" r="3" fill="white" opacity="0.4"/>
+  <circle cx="75" cy="120" r="2" fill="white" opacity="0.4"/>
+  <circle cx="105" cy="130" r="2.5" fill="white" opacity="0.4"/>
+  
+  <!-- Orange slice on rim -->
+  <circle cx="100" cy="55" r="20" fill="#FFA500"/>
+  <circle cx="100" cy="55" r="16" fill="#FFB84D"/>
+  <line x1="100" y1="39" x2="100" y2="71" stroke="#FFA500" stroke-width="1.5"/>
+  <line x1="84" y1="55" x2="116" y2="55" stroke="#FFA500" stroke-width="1.5"/>
+  <line x1="88" y1="43" x2="112" y2="67" stroke="#FFA500" stroke-width="1.5"/>
+  <line x1="88" y1="67" x2="112" y2="43" stroke="#FFA500" stroke-width="1.5"/>
+  
+  <!-- Glass rim -->
+  <ellipse cx="100" cy="60" rx="30" ry="8" fill="none" stroke="#E67E00" stroke-width="3"/>
+  
+  <!-- Highlight -->
+  <ellipse cx="75" cy="80" rx="8" ry="20" fill="white" opacity="0.3"/>
+</svg>

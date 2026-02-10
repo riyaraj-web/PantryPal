@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" fill="none">
+  <!-- Kitchen shelves with items -->
+  <g opacity="0.15">
+    <!-- Top shelf -->
+    <rect x="100" y="150" width="600" height="8" fill="white" rx="4"/>
+    
+    <!-- Jars and containers on top shelf -->
+    <rect x="130" y="90" width="60" height="70" fill="white" rx="8"/>
+    <circle cx="160" cy="85" r="32" fill="white"/>
+    
+    <rect x="220" y="100" width="50" height="60" fill="white" rx="8"/>
+    <circle cx="245" cy="95" r="27" fill="white"/>
+    
+    <rect x="300" y="85" width="70" height="75" fill="white" rx="8"/>
+    <circle cx="335" cy="80" r="37" fill="white"/>
+    
+    <rect x="400" y="95" width="55" height="65" fill="white" rx="8"/>
+    <circle cx="427" cy="90" r="30" fill="white"/>
+    
+    <rect x="480" y="105" width="65" height="55" fill="white" rx="8"/>
+    <circle cx="512" cy="100" r="35" fill="white"/>
+    
+    <rect x="570" y="90" width="60" height="70" fill="white" rx="8"/>
+    <circle cx="600" cy="85" r="32" fill="white"/>
+    
+    <!-- Middle shelf -->
+    <rect x="100" y="350" width="600" height="8" fill="white" rx="4"/>
+    
+    <!-- Items on middle shelf -->
+    <rect x="120" y="280" width="80" height="75" fill="white" rx="10"/>
+    <rect x="125" y="275" width="70" height="10" fill="white" rx="5"/>
+    
+    <circle cx="260" cy="310" r="45" fill="white"/>
+    <circle cx="260" cy="305" r="38" fill="white" opacity="0.5"/>
+    
+    <rect x="340" y="270" width="90" height="85" fill="white" rx="10"/>
+    <rect x="345" y="265" width="80" height="12" fill="white" rx="6"/>
+    
+    <rect x="460" y="285" width="70" height="70" fill="white" rx="10"/>
+    <circle cx="495" cy="280" r="37" fill="white"/>
+    
+    <rect x="560" y="275" width="85" height="80" fill="white" rx="10"/>
+    <rect x="565" y="270" width="75" height="12" fill="white" rx="6"/>
+    
+    <!-- Bottom shelf -->
+    <rect x="100" y="550" width="600" height="8" fill="white" rx="4"/>
+    
+    <!-- Items on bottom shelf -->
+    <rect x="130" y="470" width="70" height="85" fill="white" rx="10"/>
+    <ellipse cx="165" cy="465" rx="37" ry="15" fill="white"/>
+    
+    <rect x="230" y="480" width="75" height="75" fill="white" rx="10"/>
+    <circle cx="267" cy="475" r="40" fill="white"/>
+    
+    <rect x="330" y="465" width="85" height="90" fill="white" rx="10"/>
+    <ellipse cx="372" cy="460" rx="45" ry="18" fill="white"/>
+    
+    <rect x="440" y="475" width="80" height="80" fill="white" rx="10"/>
+    <circle cx="480" cy="470" r="42" fill="white"/>
+    
+    <rect x="545" y="485" width="70" height="70" fill="white" rx="10"/>
+    <ellipse cx="580" cy="480" rx="37" ry="15" fill="white"/>
+    
+    <rect x="635" y="470" width="65" height="85" fill="white" rx="10"/>
+    <circle cx="667" cy="465" r="35" fill="white"/>
+  </g>
+  
+  <!-- Floating food icons -->
+  <g opacity="0.1">
+    <!-- Vegetables -->
+    <circle cx="150" cy="700" r="25" fill="white"/>
+    <circle cx="650" cy="250" r="30" fill="white"/>
+    <circle cx="200" cy="850" r="20" fill="white"/>
+    <circle cx="600" cy="750" r="28" fill="white"/>
+    
+    <!-- Utensils -->
+    <rect x="700" y="400" width="8" height="120" fill="white" rx="4"/>
+    <circle cx="704" cy="395" r="20" fill="white"/>
+    
+    <rect x="80" y="600" width="8" height="100" fill="white" rx="4"/>
+    <ellipse cx="84" cy="595" rx="25" ry="12" fill="white"/>
+  </g>
+  
+  <!-- Decorative dots pattern -->
+  <g opacity="0.08">
+    <circle cx="250" cy="200" r="4" fill="white"/>
+    <circle cx="280" cy="220" r="4" fill="white"/>
+    <circle cx="310" cy="200" r="4" fill="white"/>
+    <circle cx="340" cy="220" r="4" fill="white"/>
+    
+    <circle cx="450" cy="400" r="4" fill="white"/>
+    <circle cx="480" cy="420" r="4" fill="white"/>
+    <circle cx="510" cy="400" r="4" fill="white"/>
+    <circle cx="540" cy="420" r="4" fill="white"/>
+    
+    <circle cx="150" cy="650" r="4" fill="white"/>
+    <circle cx="180" cy="670" r="4" fill="white"/>
+    <circle cx="210" cy="650" r="4" fill="white"/>
+    <circle cx="240" cy="670" r="4" fill="white"/>
+  </g>
+</svg>

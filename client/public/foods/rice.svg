@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Bowl -->
+  <ellipse cx="100" cy="160" rx="70" ry="15" fill="#8B7355" opacity="0.3"/>
+  <path d="M 40 120 Q 40 160 100 165 Q 160 160 160 120 L 160 100 Q 160 95 100 95 Q 40 95 40 100 Z" fill="#D4A574" stroke="#8B7355" stroke-width="2"/>
+  
+  <!-- Rice grains -->
+  <ellipse cx="80" cy="105" rx="4" ry="6" fill="#F5E6D3" transform="rotate(15 80 105)"/>
+  <ellipse cx="90" cy="108" rx="4" ry="6" fill="#F5E6D3" transform="rotate(-10 90 108)"/>
+  <ellipse cx="100" cy="103" rx="4" ry="6" fill="#F5E6D3" transform="rotate(20 100 103)"/>
+  <ellipse cx="110" cy="107" rx="4" ry="6" fill="#F5E6D3" transform="rotate(-15 110 107)"/>
+  <ellipse cx="120" cy="104" rx="4" ry="6" fill="#F5E6D3" transform="rotate(10 120 104)"/>
+  
+  <ellipse cx="75" cy="115" rx="4" ry="6" fill="#EDD9C0" transform="rotate(-20 75 115)"/>
+  <ellipse cx="85" cy="118" rx="4" ry="6" fill="#EDD9C0" transform="rotate(15 85 118)"/>
+  <ellipse cx="95" cy="113" rx="4" ry="6" fill="#EDD9C0" transform="rotate(-10 95 113)"/>
+  <ellipse cx="105" cy="117" rx="4" ry="6" fill="#EDD9C0" transform="rotate(25 105 117)"/>
+  <ellipse cx="115" cy="114" rx="4" ry="6" fill="#EDD9C0" transform="rotate(-5 115 114)"/>
+  <ellipse cx="125" cy="116" rx="4" ry="6" fill="#EDD9C0" transform="rotate(18 125 116)"/>
+  
+  <ellipse cx="70" cy="125" rx="4" ry="6" fill="#F5E6D3" transform="rotate(12 70 125)"/>
+  <ellipse cx="80" cy="128" rx="4" ry="6" fill="#F5E6D3" transform="rotate(-18 80 128)"/>
+  <ellipse cx="90" cy="123" rx="4" ry="6" fill="#F5E6D3" transform="rotate(8 90 123)"/>
+  <ellipse cx="100" cy="127" rx="4" ry="6" fill="#F5E6D3" transform="rotate(-12 100 127)"/>
+  <ellipse cx="110" cy="124" rx="4" ry="6" fill="#F5E6D3" transform="rotate(22 110 124)"/>
+  <ellipse cx="120" cy="126" rx="4" ry="6" fill="#F5E6D3" transform="rotate(-8 120 126)"/>
+  <ellipse cx="130" cy="123" rx="4" ry="6" fill="#F5E6D3" transform="rotate(16 130 123)"/>
+  
+  <!-- More rice layers -->
+  <ellipse cx="65" cy="135" rx="4" ry="6" fill="#EDD9C0" transform="rotate(-15 65 135)"/>
+  <ellipse cx="75" cy="138" rx="4" ry="6" fill="#EDD9C0" transform="rotate(20 75 138)"/>
+  <ellipse cx="85" cy="133" rx="4" ry="6" fill="#EDD9C0" transform="rotate(-10 85 133)"/>
+  <ellipse cx="95" cy="137" rx="4" ry="6" fill="#EDD9C0" transform="rotate(14 95 137)"/>
+  <ellipse cx="105" cy="134" rx="4" ry="6" fill="#EDD9C0" transform="rotate(-18 105 134)"/>
+  <ellipse cx="115" cy="136" rx="4" ry="6" fill="#EDD9C0" transform="rotate(10 115 136)"/>
+  <ellipse cx="125" cy="133" rx="4" ry="6" fill="#EDD9C0" transform="rotate(-12 125 133)"/>
+  <ellipse cx="135" cy="135" rx="4" ry="6" fill="#EDD9C0" transform="rotate(18 135 135)"/>
+  
+  <!-- Highlight on bowl -->
+  <ellipse cx="55" cy="110" rx="8" ry="4" fill="white" opacity="0.3"/>
+</svg>

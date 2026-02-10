@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Back leaves -->
+  <path d="M 120 140 Q 140 130 150 110 Q 155 90 145 75 Q 135 65 120 70 Q 110 75 105 90 Q 100 110 110 130 Q 115 140 120 140" fill="#2E7D32" opacity="0.7"/>
+  <path d="M 80 135 Q 60 125 50 105 Q 45 85 55 70 Q 65 60 80 65 Q 90 70 95 85 Q 100 105 90 125 Q 85 135 80 135" fill="#2E7D32" opacity="0.7"/>
+  
+  <!-- Main center leaf -->
+  <path d="M 100 150 Q 70 140 55 115 Q 45 95 50 75 Q 55 55 75 45 Q 95 40 110 45 Q 125 50 135 65 Q 145 80 145 100 Q 145 120 130 135 Q 115 145 100 150" fill="#388E3C"/>
+  
+  <!-- Leaf veins -->
+  <path d="M 100 150 L 100 60" stroke="#2E7D32" stroke-width="2" fill="none"/>
+  <path d="M 100 80 Q 80 85 70 95" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  <path d="M 100 100 Q 75 105 65 115" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  <path d="M 100 120 Q 80 125 75 130" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  <path d="M 100 80 Q 120 85 130 95" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  <path d="M 100 100 Q 125 105 135 115" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  <path d="M 100 120 Q 120 125 125 130" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  
+  <!-- Front leaves -->
+  <path d="M 90 130 Q 70 120 60 100 Q 55 80 65 65 Q 75 55 90 60 Q 100 65 105 80 Q 110 100 100 120 Q 95 130 90 130" fill="#43A047"/>
+  <path d="M 110 125 Q 130 115 140 95 Q 145 75 135 60 Q 125 50 110 55 Q 100 60 95 75 Q 90 95 100 115 Q 105 125 110 125" fill="#43A047"/>
+  
+  <!-- Veins on front leaves -->
+  <path d="M 90 130 L 90 70" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  <path d="M 110 125 L 110 65" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  
+  <!-- Highlights -->
+  <ellipse cx="85" cy="80" rx="8" ry="12" fill="white" opacity="0.2"/>
+  <ellipse cx="115" cy="75" rx="8" ry="12" fill="white" opacity="0.2"/>
+  <ellipse cx="100" cy="90" rx="10" ry="15" fill="white" opacity="0.15"/>
+  
+  <!-- Stem -->
+  <path d="M 100 150 Q 100 165 95 175" stroke="#2E7D32" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

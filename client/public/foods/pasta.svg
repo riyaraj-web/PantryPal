@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Plate -->
+  <ellipse cx="100" cy="140" rx="75" ry="15" fill="#E0E0E0"/>
+  <ellipse cx="100" cy="135" rx="75" ry="12" fill="#F5F5F5"/>
+  
+  <!-- Pasta noodles -->
+  <g opacity="0.9">
+    <!-- Bottom layer -->
+    <path d="M 60 120 Q 70 110 80 115 Q 90 120 100 115 Q 110 110 120 115 Q 130 120 140 115" 
+          stroke="#F4E4C1" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M 55 125 Q 65 118 75 122 Q 85 127 95 122 Q 105 117 115 122 Q 125 127 135 122 Q 142 118 145 122" 
+          stroke="#F4E4C1" stroke-width="8" fill="none" stroke-linecap="round"/>
+    
+    <!-- Middle layer -->
+    <path d="M 65 110 Q 75 100 85 105 Q 95 110 105 105 Q 115 100 125 105 Q 135 110 140 108" 
+          stroke="#F5E6C8" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M 58 115 Q 68 108 78 112 Q 88 117 98 112 Q 108 107 118 112 Q 128 117 138 112" 
+          stroke="#F5E6C8" stroke-width="8" fill="none" stroke-linecap="round"/>
+    
+    <!-- Top layer -->
+    <path d="M 70 100 Q 80 90 90 95 Q 100 100 110 95 Q 120 90 130 95" 
+          stroke="#F6E8CC" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M 63 105 Q 73 98 83 102 Q 93 107 103 102 Q 113 97 123 102 Q 133 107 137 105" 
+          stroke="#F6E8CC" stroke-width="8" fill="none" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Creamy sauce -->
+  <ellipse cx="100" cy="115" rx="45" ry="8" fill="#FFF8E7" opacity="0.7"/>
+  <ellipse cx="95" cy="108" rx="35" ry="6" fill="#FFFBF0" opacity="0.6"/>
+  
+  <!-- Garlic pieces -->
+  <ellipse cx="85" cy="105" rx="4" ry="3" fill="#F5F5DC" transform="rotate(-20 85 105)"/>
+  <ellipse cx="110" cy="110" rx="4" ry="3" fill="#F5F5DC" transform="rotate(15 110 110)"/>
+  <ellipse cx="95" cy="115" rx="3" ry="2" fill="#F5F5DC" transform="rotate(-10 95 115)"/>
+  
+  <!-- Parsley garnish -->
+  <g fill="#4CAF50">
+    <circle cx="90" cy="95" r="2"/>
+    <circle cx="92" cy="97" r="1.5"/>
+    <circle cx="88" cy="97" r="1.5"/>
+    
+    <circle cx="115" cy="100" r="2"/>
+    <circle cx="117" cy="102" r="1.5"/>
+    <circle cx="113" cy="102" r="1.5"/>
+  </g>
+  
+  <!-- Steam -->
+  <g opacity="0.3" stroke="#999" stroke-width="1.5" fill="none">
+    <path d="M 75 85 Q 73 75 75 65" stroke-linecap="round"/>
+    <path d="M 100 80 Q 98 70 100 60" stroke-linecap="round"/>
+    <path d="M 125 85 Q 127 75 125 65" stroke-linecap="round"/>
+  </g>
+</svg>

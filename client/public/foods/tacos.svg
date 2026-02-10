@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Taco shell (left side) -->
+  <path d="M 50 140 Q 50 100 70 80 L 75 140 Z" fill="#F4A460" stroke="#D2691E" stroke-width="2"/>
+  
+  <!-- Taco shell (right side) -->
+  <path d="M 150 140 Q 150 100 130 80 L 125 140 Z" fill="#F4A460" stroke="#D2691E" stroke-width="2"/>
+  
+  <!-- Taco shell texture -->
+  <path d="M 55 130 Q 55 105 68 88" stroke="#D2691E" stroke-width="1" fill="none" opacity="0.5"/>
+  <path d="M 145 130 Q 145 105 132 88" stroke="#D2691E" stroke-width="1" fill="none" opacity="0.5"/>
+  
+  <!-- Ground beef -->
+  <ellipse cx="100" cy="110" rx="35" ry="12" fill="#8B4513"/>
+  <ellipse cx="95" cy="108" rx="8" ry="4" fill="#A0522D"/>
+  <ellipse cx="108" cy="109" rx="7" ry="4" fill="#A0522D"/>
+  <ellipse cx="100" cy="112" rx="6" ry="3" fill="#A0522D"/>
+  
+  <!-- Lettuce -->
+  <path d="M 70 100 Q 75 95 80 98 Q 85 95 90 98 Q 95 95 100 98 Q 105 95 110 98 Q 115 95 120 98 Q 125 95 130 100" 
+        fill="#4CAF50" opacity="0.8"/>
+  <path d="M 72 102 Q 77 97 82 100 Q 87 97 92 100 Q 97 97 102 100 Q 107 97 112 100 Q 117 97 122 100 Q 127 97 128 102" 
+        fill="#66BB6A" opacity="0.7"/>
+  
+  <!-- Tomatoes -->
+  <circle cx="85" cy="95" r="5" fill="#F44336"/>
+  <circle cx="100" cy="93" r="5" fill="#F44336"/>
+  <circle cx="115" cy="95" r="5" fill="#F44336"/>
+  
+  <!-- Cheese (shredded) -->
+  <g fill="#FFD54F">
+    <rect x="75" y="105" width="3" height="8" rx="1" opacity="0.9"/>
+    <rect x="82" y="106" width="3" height="7" rx="1" opacity="0.9"/>
+    <rect x="90" y="105" width="3" height="9" rx="1" opacity="0.9"/>
+    <rect x="98" y="106" width="3" height="8" rx="1" opacity="0.9"/>
+    <rect x="106" y="105" width="3" height="7" rx="1" opacity="0.9"/>
+    <rect x="114" y="106" width="3" height="8" rx="1" opacity="0.9"/>
+    <rect x="122" y="105" width="3" height="7" rx="1" opacity="0.9"/>
+  </g>
+  
+  <!-- Sour cream -->
+  <ellipse cx="100" cy="88" rx="20" ry="4" fill="#FFFEF0" opacity="0.9"/>
+  <ellipse cx="98" cy="87" rx="15" ry="3" fill="#FFFFFF" opacity="0.8"/>
+  
+  <!-- Cilantro garnish -->
+  <g fill="#2E7D32">
+    <circle cx="90" cy="85" r="1.5"/>
+    <circle cx="92" cy="86" r="1"/>
+    <circle cx="88" cy="86" r="1"/>
+    
+    <circle cx="110" cy="85" r="1.5"/>
+    <circle cx="112" cy="86" r="1"/>
+    <circle cx="108" cy="86" r="1"/>
+  </g>
+  
+  <!-- Plate -->
+  <ellipse cx="100" cy="145" rx="70" ry="12" fill="#E0E0E0"/>
+  <ellipse cx="100" cy="143" rx="70" ry="10" fill="#F5F5F5"/>
+</svg>
