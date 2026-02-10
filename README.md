@@ -3,7 +3,6 @@
 A modern pantry management application built with React, TypeScript, and Express. Track your pantry items, plan meals, manage shopping lists, and monitor your grocery budget.
 
 ## Features
-
 - **Pantry Management**: Track items with expiry dates, quantities, and categories
 - **Smart Dashboard**: View expiring items, suggested recipes, and statistics
 - **Meal Planning**: Plan your weekly meals with nutritional tracking
