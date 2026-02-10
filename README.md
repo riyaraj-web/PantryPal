@@ -12,7 +12,8 @@ A modern pantry management application built with React, TypeScript, and Express
 - **Recipe Suggestions**: Get recipe recommendations based on available ingredients
 - **Barcode Scanning**: Quick item entry via barcode scanning
 - **Dark Mode**: Full theme support for comfortable viewing
-![Uploading {EAD70B12-B47D-499B-9B5D-9923622B53E5}.png…]()
+
+<img width="1920" height="867" alt="{EAD70B12-B47D-499B-9B5D-9923622B53E5}" src="https://github.com/user-attachments/assets/abee8ee4-2df0-40cd-805f-4d699c451e71" />
 
 
 
